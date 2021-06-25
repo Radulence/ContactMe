@@ -179,7 +179,7 @@ span {
     top: 90%;
 }
 
-.btn2:hover:before {
+.btn2:hover::before {
     animation: aaa 0.7s 1;
     top: -10%;
     left: -10%;
@@ -203,6 +203,7 @@ span {
 .Ikone {
     margin-left: 50px;
 }
+
 
 .spinner-wrapper {
     width: 100%;
